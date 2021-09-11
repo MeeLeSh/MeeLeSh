@@ -1,4 +1,4 @@
-[<img src="ttps://user-images.githubusercontent.com/68658609/132947822-d5e51313-b664-46dc-a0f4-17c16a6da2d3.gif" />][https://vk.com/meelesh]
+[<img src="ttps://user-images.githubusercontent.com/68658609/132947822-d5e51313-b664-46dc-a0f4-17c16a6da2d3.gif" >][https://vk.com/meelesh]
 
 
 <!--
