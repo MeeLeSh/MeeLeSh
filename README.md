@@ -1,6 +1,6 @@
 
-!(https://user-images.githubusercontent.com/68658609/132947822-d5e51313-b664-46dc-a0f4-17c16a6da2d3.gif)
-<a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>
+![zxcursed](https://user-images.githubusercontent.com/68658609/132947822-d5e51313-b664-46dc-a0f4-17c16a6da2d3.gif)
+
 
 
 <!--
