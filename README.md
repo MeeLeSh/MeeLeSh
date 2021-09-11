@@ -5,6 +5,9 @@
 [<img align="left" width="37px" src="https://user-images.githubusercontent.com/68658609/132949840-5f10bcd3-f2ac-424a-8433-27e7fc044e5f.jpg" />][telegram]
 <br />
 
+<img align="left" alt="MeeLeSh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MeeLeSh&show_icons=true&hide_border=true" />
+<br />
+
 [github]: https://github.com/MeeLeSh
 [vk]: https://vk.com/meelesh
 [telegram]: https://t.me/meelesh
