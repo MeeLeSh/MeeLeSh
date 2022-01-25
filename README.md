@@ -8,4 +8,4 @@
 
 [github]: https://github.com/MeeLeSh
 [vk]: https://vk.com/meelesh
-[telegram]: https://t.me/meelesh
+[telegram]: https://t.me/meeleshx
