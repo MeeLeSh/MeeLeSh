@@ -5,7 +5,9 @@
 
 [<img width="37px" src="https://user-images.githubusercontent.com/68658609/132950075-b848d17c-6b93-4202-bdcb-c7b09b266e11.png" />][vk]
 [<img width="37px" src="https://user-images.githubusercontent.com/68658609/132949840-5f10bcd3-f2ac-424a-8433-27e7fc044e5f.jpg" />][telegram]
-
+[<img width="37px" src="https://github.com/MeeLeSh/screenshots/blob/d531c74594a43d1ebc03a7e40c54f36341e0a596/download.png" />][linkedIn]
+  
 [github]: https://github.com/MeeLeSh
 [vk]: https://vk.com/meelesh
 [telegram]: https://t.me/meeleshx
+[linkedIn]: https://www.linkedin.com/in/lesha-mihailov-b34520239/
