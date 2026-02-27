@@ -10,4 +10,3 @@
 [github]: https://github.com/MeeLeSh
 [vk]: https://vk.com/meelesh
 [telegram]: https://t.me/meeleshx
-[linkedIn]: https://www.linkedin.com/in/lesha-mihailov-b34520239/
